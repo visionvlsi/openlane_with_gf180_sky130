@@ -2,36 +2,36 @@
 
 # To install gf180 with openlane follow the below steps:
 <ul>
-git clone https://github.com/The-OpenROAD-Project/OpenLane.git
-cd OpenLane
-export PDK_FAMILY=gf180mcu
-export PDK=gf180mcuC
-make
-make test
+  <li>git clone https://github.com/The-OpenROAD-Project/OpenLane.git</li>
+<li>cd OpenLane</li>
+<li>export PDK_FAMILY=gf180mcu</li>
+<li>export PDK=gf180mcuC</li>
+<li>make</li>
+<li>make test</li>
 </ul><br/>
 
 # To install sky130 with openlane follow the below steps:
 <ul>
-git clone https://github.com/The-OpenROAD-Project/OpenLane.git
-cd OpenLane
-make
-make test
+<li>git clone https://github.com/The-OpenROAD-Project/OpenLane.git</li>
+<li>cd OpenLane</li>
+<li>make</li>
+<li>make test</li>
 </ul><br/>
 # To install gf180 and sky130 together with openlane follow the below steps:
 
 First step do the following:<br/>
 <ul>
-git clone https://github.com/The-OpenROAD-Project/OpenLane.git
-cd OpenLane
-export PDK_FAMILY=gf180mcu
-export PDK=gf180mcuC
-make
-make test
+<li>git clone https://github.com/The-OpenROAD-Project/OpenLane.git</li>
+<li>cd OpenLane</li>
+<li>export PDK_FAMILY=gf180mcu</li>
+<li>export PDK=gf180mcuC</li>
+<li>make</li>
+<li>make test</li>
 </ul><br/>
 Second step do the following:
 <ul>
-exit
-cd OpenLane
-make
-make test
+<li>exit</li>
+<li>cd OpenLane</li>
+<li>make</li>
+<li>make test</li>
 </ou>
