@@ -4,6 +4,7 @@
 <ul>
   <li>git clone https://github.com/The-OpenROAD-Project/OpenLane.git</li>
 <li>cd OpenLane</li>
+<li>sudo su</li>
 <li>export PDK_FAMILY=gf180mcu</li>
 <li>export PDK=gf180mcuC</li>
 <li>make</li>
@@ -23,6 +24,7 @@ First step do the following:<br/>
 <ul>
 <li>git clone https://github.com/The-OpenROAD-Project/OpenLane.git</li>
 <li>cd OpenLane</li>
+<li>sudo su</li>
 <li>export PDK_FAMILY=gf180mcu</li>
 <li>export PDK=gf180mcuC</li>
 <li>make</li>
